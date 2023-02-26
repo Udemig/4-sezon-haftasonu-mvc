@@ -1,0 +1,14 @@
+{
+    "films": [
+        {
+            "id":"1",
+            "name":"Yıldızlar Arasında",
+            "rate": "9.8/10"
+        },
+        {
+            "id":"2",
+            "name":"Yeşil Yol",
+            "rate": "9.6/10"
+        }
+    ]
+}
